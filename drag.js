@@ -1,4 +1,8 @@
 function drag(id){
     var obj = document.getElementById(id);
-    var a= 1;
+    var disX=0;
+    var disY=0;
+    obj.onmousedown = function(){
+        
+    }
 }

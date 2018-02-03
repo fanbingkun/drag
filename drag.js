@@ -1,1 +1,4 @@
-function drag(){}
+function drag(id){
+    var obj = document.getElementById(id);
+    var a= 1;
+}
